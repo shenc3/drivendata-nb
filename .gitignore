@@ -1,0 +1,4 @@
+# files or directories to be ignored.
+
+.ipynb_checkpoints
+*.csv
